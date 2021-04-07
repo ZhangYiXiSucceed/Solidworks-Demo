@@ -1,3 +1,3 @@
 ## SolidWorks Demo
 
-![demo](D:\Learning Resource\EE_Project\SolidWorks Demo\demo.png)
+![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/demo.png)
