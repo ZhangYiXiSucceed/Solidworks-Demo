@@ -4,4 +4,4 @@
 
 ![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/结构件.png)
 
-![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/demo32.png)
+![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/demo32.jpg)
