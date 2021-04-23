@@ -8,4 +8,4 @@
 
 ![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/树莓派尺寸.jpg)
 
-![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/demo13.jpg)
+![demo](https://github.com/ZhangYiXiSucceed/Solidworks-Demo/blob/master/demo13.png)
